@@ -1,0 +1,40 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+    width:100%;
+}
+.heading h3
+{
+    font-size: 22px;
+    display: inline;
+    float: left;
+}
+.heading button
+{
+    float: right;
+}
+#start
+{
+    font-size: 22px;
+}
+#restart
+{
+    box-shadow: 15px 15px 10px rgb(79, 79, 79);
+}
+#footer
+{
+    width: 100%;
+    position: sticky;
+    height:30px; 
+    font-size:15px;
+    color: black;
+}
+canvas
+{
+    box-shadow: 10px 10px 5px rgb(58, 58, 58);
+    border-radius: 20px;
+}
